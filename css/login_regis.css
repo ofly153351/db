@@ -1,0 +1,25 @@
+.input input {
+    padding: 10px;
+    border-radius: 8px;
+}
+.input{
+    padding: 5px;
+}
+.form-position {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    width: 50%;
+}
+.submit{
+    width: 100%;
+    cursor: pointer;
+}
